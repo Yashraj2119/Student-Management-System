@@ -13,5 +13,3 @@ A simple **console-based Python program** to manage student records. This applic
 - 📄 View all students
 - 💾 Persistent storage using `pickle`
 
----
-
